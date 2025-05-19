@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\1-2\1-2-1\bin\Debug\1-2-1.exe.config
+C:\Users\USER\Desktop\1-2\1-2-1\bin\Debug\1-2-1.exe
+C:\Users\USER\Desktop\1-2\1-2-1\bin\Debug\1-2-1.pdb
+C:\Users\USER\Desktop\1-2\1-2-1\bin\Debug\1-2-1.xml
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\_1_2_1.Form1.resources
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\_1_2_1.Resources.resources
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.exe
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.xml
+C:\Users\USER\Desktop\1-2\1-2-1\obj\Debug\1-2-1.pdb
